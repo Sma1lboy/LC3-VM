@@ -1,0 +1,3 @@
+/Users/jacksonchen/Documents/workspace_cpp/LC3-VM/cmake-build-debug/CMakeFiles/LC3_VM.dir
+/Users/jacksonchen/Documents/workspace_cpp/LC3-VM/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jacksonchen/Documents/workspace_cpp/LC3-VM/cmake-build-debug/CMakeFiles/rebuild_cache.dir
